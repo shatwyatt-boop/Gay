@@ -14,4 +14,10 @@ https://drive.google.com/file/d/19izFtrdHByJuBtHppLz1mlT3deaZGpNO/view?usp=drive
 https://jwaoe.edu.elementalesdelsur.com/
 
 
-https://shar.centrodiagnosticogenetico.com/
+1f372ca2
+
+
+user_c0e7c8
+
+
+https://ud7e00ir.betterthancbmagic.life/
