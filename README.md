@@ -1,4 +1,4 @@
-https://script.google.com/macros/s/AKfycbw-9Y0SkbAhSVLBK8u5bVqhwYXqU1enIElKPM6AZyVig_q__c4hKzQX8TmfbUpvLwv2/exec
+hihttps://script.google.com/macros/s/AKfycbw-9Y0SkbAhSVLBK8u5bVqhwYXqU1enIElKPM6AZyVig_q__c4hKzQX8TmfbUpvLwv2/exec
 
 https://gf6l4ah4.betterthancbmagic.life/
 
@@ -93,3 +93,77 @@ funni
 
 
 https://script.google.com/macros/s/AKfycbwCH9e5pQs-FjVm3w5UH-lC6GIfCKrgI-8WNPEWBFgfW72lArOsnY_4ou__L_Z0H1n0/exec
+
+
+
+
+```
+Here are all the current domains:
+Start My Education:
+https://startmyeducation.net/
+https://site.startmyeducation.net/
+https://learn.startmyeducation.net/
+
+Start My Education (Top):
+https://startmyeducation.top/
+https://site.startmyeducation.top/
+https://learn.startmyeducation.top/
+
+Snubby:
+https://edu.snubby.top/
+https://learn.snubby.top/
+
+Goth Mommies:
+https://edu.gothmommies.org/
+https://learn.gothmommies.org/
+https://learn.edu.gothmommies.org/
+
+The Real Snubby:
+https://therealsnubby.com/
+https://edu.therealsnubby.com/
+https://learn.therealsnubby.com/
+
+SME MC:
+https://site.sme-mc.us/
+https://learn.sme-mc.us/
+
+Start My Education (US):
+https://startmyeducation.us/
+https://site.startmyeducation.us/
+https://learn.startmyeducation.us/
+
+SME Learning:
+https://sme-learning.top/
+https://site.sme-learning.top/
+https://learn.sme-learning.top/
+
+TotallyLearning:
+https://totallylearning.top/
+https://site.totallylearning.top/
+https://learn.totallylearning.top/
+
+SME Learning Lessons:
+https://sme-learning-lessons.us/
+https://site.sme-learning-lessons.us/
+https://learn.sme-learning-lessons.us/
+‎
+QoGuardian:
+https://blocked.qoguardian.com/
+https://blocked.qoguardian.top/
+‎
+L-Ready:
+https://login.l-ready.top/
+https://login.lready.top/
+‎
+Samuel:
+https://samuelwantsmorelinkspleasemakeaotheronesnubs.gay/
+‎
+Snublastic:
+https://snublastic.work/
+‎
+Get My Education:
+https://getmyeducation.top
+‎
+Geometry Workspace:
+https://qeometrics.com/
+```
