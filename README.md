@@ -182,3 +182,27 @@ https://boss.igotwasted.com/
 
 
 https://gucci-morty.americansolidarityparty.net/
+
+
+
+
+
+https://college.academics.deno.net/
+
+
+
+
+https://thefolkvalley.neocities.org/ceo
+
+
+
+https://snoopy.patelmortgage.com/
+
+https://gf6l4ah4.betterthancbmagic.life/
+
+https://ud7e00ir.betterthancbmagic.life/
+https://uf9ecjau.ilovesupxr.cfd/
+https://a6xw7vk0.allofthisisfortheotherclassmatesbtw.cfd/
+https://7i84tp8n.whatislovequestionmark.cfd/
+https://college.academics.deno.net/https://college.academics.deno.net/
+https://thefolkvalley.neocities.org/ceo
