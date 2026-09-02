@@ -88,3 +88,8 @@ skibiti
 
 
 funni
+
+
+
+
+https://script.google.com/macros/s/AKfycbwCH9e5pQs-FjVm3w5UH-lC6GIfCKrgI-8WNPEWBFgfW72lArOsnY_4ou__L_Z0H1n0/exec
