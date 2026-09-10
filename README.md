@@ -265,5 +265,19 @@ https://cdn.inksoft.com/images/clipart/svg/2570/designer2092032007108968448under
 
 https://www.brammersathletic.net/uploaded/files/product_options/20260819_234040_941281_gnmath.svg
 
+https://cdn.jsdelivr.net/npm/opiumbest/index.svg
 
+https://s3.amazonaws.com/opiumbest/index.html
 
+https://storage.googleapis.com/opiumbest/index.html
+
+https://raw.esm.sh/gh/OpiumBest/bull33/index.svg
+
+https://cdn.statically.io/gh/OpiumBest/bull33@main/index.svg
+
+https://s3.amazonaws.com/cleverlearning/index.html
+https://cdn.inksoft.com/images/clipart/svg/2570/designer2092032007108968448under/gnmath.svg
+
+https://cdn.inksoft.com/images/clipart/svg/2570/designer2092032237402320896under/gnmath.svg
+
+https://cleverlearning.s3.amazonaws.com/index.html
