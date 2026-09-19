@@ -281,3 +281,23 @@ https://cdn.inksoft.com/images/clipart/svg/2570/designer2092032007108968448under
 https://cdn.inksoft.com/images/clipart/svg/2570/designer2092032237402320896under/gnmath.svg
 
 https://cleverlearning.s3.amazonaws.com/index.html
+
+
+https://www.gimkit.com/question-image/6a7fda923fd83f32d66938e1
+
+http://math.2.3.a.a.0.d.0.0.1.0.a.2.ip6.arpa/
+
+https://a89b788b48e0.surge.sh/index.svg
+
+https://9f02c543aec5.surge.sh/index.svg
+
+https://60366a19ed6c.surge.sh/index.svg
+
+https://77082d89b226.surge.sh/index.svg
+
+https://drpepper.kwgranitecountertops.com/
+
+
+
+
+https://www.youtube.com/@dark_modz?sub_confirmation=1
