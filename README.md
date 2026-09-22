@@ -301,3 +301,13 @@ https://drpepper.kwgranitecountertops.com/
 
 
 https://www.youtube.com/@dark_modz?sub_confirmation=1
+
+https://scramupdate.cfd/
+
+https://sktechproxies.blogspot.com
+
+hur0.s3.us-east-1.amazonaws.com/index.html
+
+s3.us-east-1.amazonaws.com/7pfp/index.html
+
+
