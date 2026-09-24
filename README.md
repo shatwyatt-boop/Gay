@@ -311,3 +311,5 @@ hur0.s3.us-east-1.amazonaws.com/index.html
 s3.us-east-1.amazonaws.com/7pfp/index.html
 
 https://d2mwykiuqgp512.cloudfront.net/
+
+https://drive.google.com/file/d/1NdIXuOuml0NSUIRv3J4NWhfDJAUf1f-Q/view?usp=drivesdk
