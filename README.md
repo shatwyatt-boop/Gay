@@ -313,3 +313,21 @@ s3.us-east-1.amazonaws.com/7pfp/index.html
 https://d2mwykiuqgp512.cloudfront.net/
 
 https://drive.google.com/file/d/1NdIXuOuml0NSUIRv3J4NWhfDJAUf1f-Q/view?usp=drivesdk
+
+
+
+
+
+https://cdn3.me-qr.com/constructor/user/1810329/1790116711.svg
+
+
+https://quantil.jsdelivr.net/gh/boogli-moogly/meow-im-a-catboy@main/gnmathssvg.svg
+
+
+https://quantil.jsdelivr.net/gh/boogli-moogly/meow-im-a-catboy@main/overcloakedsvg.svg
+
+
+https://quantil.jsdelivr.net/gh/boogli-moogly/meow-im-a-catboy@main/UGSsvg.svg
+
+
+https://quantil.jsdelivr.net/gh/boogli-moogly/meow-im-a-catboy@main/aeossvg.svg
