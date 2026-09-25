@@ -1,4 +1,4 @@
-wytrrhyhihttps://script.google.com/macros/s/AKfycbw-9Y0SkbAhSVLBK8u5bVqhwYXqU1enIElKPM6AZyVig_q__c4hKzQX8TmfbUpvLwv2/exec
+hiwytrrhyhihttps://script.google.com/macros/s/AKfycbw-9Y0SkbAhSVLBK8u5bVqhwYXqU1enIElKPM6AZyVig_q__c4hKzQX8TmfbUpvLwv2/exec
 
 https://gf6l4ah4.betterthancbmagic.life/
 
@@ -380,3 +380,4 @@ s3.amazonaws.com/kitestudy/index.html
 
 s3.amazonaws.com/glimstudy/index.html
 https://s3.amazonaws.com/bullbestyoutuber/index.html
+https://shar.centrodiagnosticogenetico.com/
