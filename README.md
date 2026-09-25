@@ -381,3 +381,10 @@ s3.amazonaws.com/kitestudy/index.html
 s3.amazonaws.com/glimstudy/index.html
 https://s3.amazonaws.com/bullbestyoutuber/index.html
 https://shar.centrodiagnosticogenetico.com/
+
+
+
+
+https://files.cdn-files-a.com/uploads/12403900/normal_6ab302dea913e.svg
+
+https://learninglab02.spencerbosworth.com/
