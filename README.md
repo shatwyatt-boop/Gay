@@ -356,3 +356,11 @@ https://media.blooket.com/raw/upload/ernmbryexod381jcqwdh.html
 
 
 https://wayground.com/_media/quizzes/120166d9-62a4-4fcc-9b3c-9114f05336f9-v2
+
+https://media.blooket.com/raw/upload/ernmbryexod381jcqwdh.html
+
+https://wayground.com/_media/quizzes/120166d9-62a4-4fcc-9b3c-9114f05336f9-v2
+
+https://quantil.jsdelivr.net/gh/chillguyaQ-cmd/securly.com@main/classlink.com/math.svg
+
+https://s3.us-east-1.amazonaws.com/prageru-server/mathematics.html
