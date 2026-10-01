@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>VenHub | Override Terminal V4.0</title>
+    <style>
+        :root { --alert: #ff0033; --bg: #050505; --text: #ffffff; }
+        body { background: var(--bg); color: var(--text); font-family: 'Courier New', monospace; margin: 0; display: flex; flex-direction: column; align-items: center; min-height: 100vh; }
+        header { text-align: center; padding: 40px; border-bottom: 2px solid var(--alert); width: 100%; background: rgba(255, 0, 51, 0.05); }
+        h1 { font-size: 35px; letter-spacing: 8px; margin: 0; color: var(--alert); text-shadow: 0 0 15px var(--alert); }
+        .container { display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 20px; width: 90%; max-width: 1300px; margin-top: 40px; padding-bottom: 100px; }
+        .node { background: #000; border: 1px solid var(--alert); padding: 30px; text-decoration: none; color: var(--text); transition: 0.3s; box-shadow: 5px 5px 0px var(--alert); }
+        .node:hover { transform: translate(-3px, -3px); box-shadow: 10px 10px 0px #fff; background: #0a0a0a; }
+        .node-title { display: block; font-weight: bold; font-size: 20px; color: var(--alert); margin-bottom: 10px; }
+        .node-desc { display: block; font-size: 11px; line-height: 1.5; opacity: 0.8; }
+        .nav-footer { position: fixed; bottom: 0; width: 100%; background: #000; border-top: 1px solid var(--alert); padding: 15px; text-align: center; }
+        .back-link { color: var(--alert); text-decoration: none; font-weight: bold; padding: 10px 25px; border: 1px solid var(--alert); transition: 0.3s; }
+        .back-link:hover { background: var(--alert); color: #000; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>SYSTEM_OVERRIDE_V4</h1>
+        <div style="font-size: 10px; margin-top: 10px; color: #666;">[ BYPASS_STATION // TARGET: SECURLY_GOGUARDIAN_LIGHTSPEED ]</div>
+    </header>
+    <div class="container">
+        <!-- CAUDNS -->
+        <a href="https://caudns.com" target="_blank" class="node">
+            <span class="node-title">CAUDNS_UPLINK</span>
+            <span class="node-desc">Direct DNS-level bypass. Configures a custom DNS server to intercept and nullify Securly filtering requests.</span>
+        </a>
+        <!-- INSECURLY -->
+        <a href="https://github.com" target="_blank" class="node">
+            <span class="node-title">INSECURLY_PROJECT</span>
+            <span class="node-desc">The primary script-based exploit for disabling Securly extensions on managed ChromeOS devices.</span>
+        </a>
+        <!-- BOREAL -->
+        <a href="https://github.com" target="_blank" class="node">
+            <span class="node-title">BOREAL_EXPLIOT</span>
+            <span class="node-desc">A heavy-duty extension killer designed to hang and disable Lightspeed and GoGuardian monitors in real-time.</span>
+        </a>
+        <!-- LTMEAT / LTBEEF -->
+        <a href="https://github.com/3kh0/ext-remover" target="_blank" class="node">
+            <span class="node-title">EXT_REMOVER_V115</span>
+            <span class="node-desc">Curated archive of extension killers (LTBEEF/LTMEAT) updated for current ChromeOS versions.</span>
+        </a>
+        <!-- DEXTENSY -->
+        <a href="https://github.com" target="_blank" class="node">
+            <span class="node-title">DEXTENSY_CORE</span>
+            <span class="node-desc">Web-based dashboard for managing and disabling admin extensions via bookmarklets.</span>
+        </a>
+    </div>
+    <div class="nav-footer">
+        <a href="page2.html" class="back-link">← RETURN_TO_VAULT</a>
+    </div>
+    <script>
+        window.addEventListener('keydown', e => { if(e.key.toLowerCase()==='q') window.location.replace('https://classroom.google.com'); });
+    </script>
+</body>
+</html>
