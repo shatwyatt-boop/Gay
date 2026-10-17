@@ -6,6 +6,16 @@ Fuck Fuck Fuck Fuck Fuck Fuck Fuck Fuck Fuck Fuck Fuck Fuck Fuck Fuck Fuck Fuck 
 https://s4.zstatic.net/npm/edurocks@latest/index.html
 https://unpkg.com/learnmathedu
 
+
+https://github.com/SCHSwork/math
+
+
+http://s3.amazonaws.com/fernisbest/index.html
+
+
+
+https://tuffled.s3.us-east-2.amazonaws.com/truffled.html
+
 https://storage.googleapis.com/edurocksg/index.html
 
 https://drpepper.kwgranitecountertops.com/
