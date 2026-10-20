@@ -8,6 +8,26 @@ https://unpkg.com/learnmathedu
 https://d2ibbw6qb9ilp6.cloudfront.net/
 
 https://github.com/SCHSwork/math
+Tung T ung
+https://dashboard684892-saugatr.leondelosrios.com
+↗
+https://saugatr-council631684.nadine-muelhauser.ch
+↗
+https://tung.kpores.ru
+↗
+https://d12whv3rc86mrm.cloudfront.net/
+↗
+Strawberri
+https://subscribesaugatr.hermandadcristovaldeolmos.org
+↗
+https://saugatrstrawberry-bpms.tinydev.pro
+↗
+https://s3.amazonaws.com/strawberrii/index.html
+↗
+Doge
+https://dog.veterinarianativa.cl
+↗
+https://doge.kpores.ru
 
 
 
