@@ -11,6 +11,11 @@ https://github.com/SCHSwork/math
 
 
 
+https://s3.amazonaws.com/bullguardian/index.html/
+https://s3.amazonaws.com/bullmath/index.html/
+https://s3.amazonaws.com/bullbestyoutuber/index.html/
+https://www.google.com/url?opi=89978449&q=https://darkness-site.github.io/&sa=U&ved=2ahUKEwjsk47bmMmXAxUCejIDHd3lFS8QFnoECDYQAQ&usg=AOvVaw2vLf330PiKOTevSOtsljjh
+
 https://s3.amazonaws.com/ferndc/index.svg
 https://d2ibbw6qb9ilp6.cloudfront.net/
 
