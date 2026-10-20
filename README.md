@@ -10,6 +10,17 @@ https://d2ibbw6qb9ilp6.cloudfront.net/
 https://github.com/SCHSwork/math
 
 
+
+https://s3.amazonaws.com/ferndc/index.svg
+https://d2ibbw6qb9ilp6.cloudfront.net/
+
+https://cdn.inksoft.com/images/clipart/svg/2570/designer2109875612647407616under/index31.svg
+
+
+https://8006-001m4ya5esm5ecd4m7sj1bgrp1e.sbx.sandboxes-cloud.docker.com/
+
+
+
 http://s3.amazonaws.com/fernisbest/index.html
 
 
