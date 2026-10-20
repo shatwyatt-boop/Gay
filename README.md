@@ -135,6 +135,21 @@ https://8006-001m4ya5esm5ecd4m7sj1bgrp1e.sbx.sandboxes-cloud.docker.com/
 
 
 
+
+https://cdn.inksoft.com/images/clipart/svg/16872/326ff327-fcf2-483e-9388-3e5f5d77/singlefile.svg
+https://opm33d5.renato-ordenes.cl/
+
+https://newastra.b-cdn.net/
+https://s3.amazonaws.com/cleverlearning/study
+https://ixl-login.b-cdn.net/
+
+https://s3.amazonaws.com/opiumbest/study
+https://gclassroom.storage.googleapis.com/study.html
+
+https://s3.amazonaws.com/opiumbull/study
+
+https://customplanet.com/tshirtecommerce/uploaded/2026/10//dg-designer-e43739bb179147619438322271710035167.svg
+
 http://s3.amazonaws.com/fernisbest/index.html
 
 
