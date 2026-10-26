@@ -7,6 +7,9 @@ https://s4.zstatic.net/npm/edurocks@latest/index.html
 https://unpkg.com/learnmathedu
 https://customplanet.com/tshirtecommerce/uploaded/2026/10//dg-designer-e43739bb179147619438322271710035167.svg
 
+https://www.google.com/url?opi=89978449&q=https://www.houselearning.org/home/assets/ampler-launcher/&sa=U&ved=2ahUKEwiehfyXnNiXAxVuoSsGHRS1O044ChAWegQIMBAB&usg=AOvVaw2vksrvKQjeQHj76W9kyzKi
+
+
 https://chud.xyloralarps.site/
 https://plz.overcookedchicken.org/
 https://i.love.overcookedchicken.org/
