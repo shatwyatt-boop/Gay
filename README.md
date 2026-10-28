@@ -10,6 +10,15 @@ https://customplanet.com/tshirtecommerce/uploaded/2026/10//dg-designer-e43739bb1
 https://www.google.com/url?opi=89978449&q=https://www.houselearning.org/home/assets/ampler-launcher/&sa=U&ved=2ahUKEwiehfyXnNiXAxVuoSsGHRS1O044ChAWegQIMBAB&usg=AOvVaw2vksrvKQjeQHj76W9kyzKi
 
 
+https://pub-e8d1d8e40bb7420daf150c761ad5bfef.r2.dev/index.svg
+https://www.google.com/url?opi=89978449&q=https://www.houselearning.org/home/assets/ampler-launcher/&sa=U&ved=2ahUKEwiehfyXnNiXAxVuoSsGHRS1O044ChAWegQIMBAB&usg=AOvVaw2vksrvKQjeQHj76W9kyzKi
+https://objectstorage.us-sanjose-1.oraclecloud.com/n/axjcou67ax5a/b/sciencelearning/o/index.html
+https://axjcou67ax5a.compat.objectstorage.us-sanjose-1.oci.customer-oci.com/englishlearning/index.svg
+
+https://cdn.githubraw.com/studyyard/67/8804b901f6fcbad0e10294fbf05d019269f2258a/index.svg
+
+
+https://gofile.io/d/3JS7Syw6
 https://chud.xyloralarps.site/
 https://plz.overcookedchicken.org/
 https://i.love.overcookedchicken.org/
