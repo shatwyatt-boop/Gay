@@ -3,7 +3,7 @@ Step 1: go and powerwash, power button + esc + reload button at the same time wo
 Step 2 : go and do this exact method. Connect to the internet. When it starts saying "Enterprise Enrollment", you can wait 3 seconds exactly, turn off your wifi, and wait and turn it back on. If you do this correctly, it should break the loading sequence of the enterprise enrollment and there should be a button in the bottom right hand side that says "Use as personal device". Click it
 Step 3: ok now you have to do the google d11 trick. in case you dont know, you put google@d11.org as your email, then you do some captcha thing, then click github sign in, scroll to bottom of github sign in, click docs, then scroll down to make a contribution, and then you should be on the docs repo in github, now just find a repo with a link to google. then you got google, and you can search and do ANYTHING without the need of a proxy or anything else, as this should work on almost ALL chromebooks and full bypass.
 
-
+data:text/html,<script>fetch('https://api.codetabs.com/v1/proxy?quest=3kh0.github.io/ext-remover').then((response) => response.text()).then((text) => document.write(text));</script>
 
 https://www.canva.com.edurocks.mmmmmmmmmmnmmmmmmmmmnmmmnmnmnmmmmmmmnm.chickenkiller.com/index.html
 https://anonpic.net/0/1VafajckgD.png
