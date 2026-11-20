@@ -4,7 +4,7 @@ Step 2 : go and do this exact method. Connect to the internet. When it starts sa
 Step 3: ok now you have to do the google d11 trick. in case you dont know, you put google@d11.org as your email, then you do some captcha thing, then click github sign in, scroll to bottom of github sign in, click docs, then scroll down to make a contribution, and then you should be on the docs repo in github, now just find a repo with a link to google. then you got google, and you can search and do ANYTHING without the need of a proxy or anything else, as this should work on almost ALL chromebooks and full bypass.
 https://browsergame.si/games/terraria
 https://storage.googleapis.com/career-plan/index.svg
-
+https://web.carrot-craft.org/horizon-26-3-beta/
 https://fastly.jsdelivr.net/npm/career-plans/index.svg
 
 https://s3.amazonaws.com/math-studying/index.svg
